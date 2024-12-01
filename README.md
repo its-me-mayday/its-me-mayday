@@ -1,5 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Luca aka mayday</h3>
+<h4 align="center">Stay Fox!</h4>
 
 <p align="center">
   <a href="https://github.com/its-me-mayday">GitHub</a> •
