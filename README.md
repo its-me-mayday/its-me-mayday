@@ -24,6 +24,4 @@ Let’s turn the Right-Side Up into something even stranger! 🚀
 
 ## 📊 &nbsp;Stats
 
-![Luca's Github Stats](https://github-readme-stats.vercel.app/api?username=its-me-mayday&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
 ![Luca Maggio's GitHub Stats](https://raw.githubusercontent.com/its-me-mayday/hawkins-github-stats/main/card.svg)
