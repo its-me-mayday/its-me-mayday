@@ -25,3 +25,17 @@ Let’s turn the Right-Side Up into something even stranger! 🚀
 ## 📊 &nbsp;Stats
 
 ![Luca Maggio's GitHub Stats](https://raw.githubusercontent.com/its-me-mayday/hawkins-github-stats/main/card.svg)
+
+## 🔬 Featured projects
+
+- ☁️ **[simple-gitops-poc](https://github.com/its-me-mayday/simple-gitops-poc)**  
+  Kind + ArgoCD + Gitea + Harbor: GitOps lab to experiment with pipelines and supply chains.
+
+- 🎮 **[Chill Rider](https://github.com/its-me-mayday/chill-rider)**  
+Roguelike delivery game in React + TS, modular HUD, equipment, shop and pixelated maps.
+
+- 🧪 **[Hawkins Control](https://github.com/its-me-mayday/hawkins-control-ui)**  
+  Stranger Things Rock–Paper–Scissors game with Hawkins theme, animations and custom SFX.
+
+
+
