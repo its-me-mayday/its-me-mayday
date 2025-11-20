@@ -16,14 +16,16 @@ If it’s a new stack, a cryptic error, or just something to tinker with, I’m 
 
 Let’s turn the Right-Side Up into something even stranger! 🚀
 
-## 🧰 &nbsp;My toolbox
-
-
 ## 🧰 My toolbox
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/its-me-mayday/hawkins-github-stats/main/toolbox.svg" />
 </p>
+
+**Languages:** JavaScript · TypeScript · Python · HCL · Lua  
+**Backend & Dev:** Spring Boot · Express · Django (toy)  
+**Cloud & DevOps:** Kubernetes · Terraform/OpenTofu · ArgoCD · Tekton  
+**Game dev & fun:** Godot · React · Tailwind · Pixel art experiments
 
 ## 📊 Stats
 
