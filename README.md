@@ -9,10 +9,11 @@
 
  <!-- About section -->
 ---
-🚴‍♂️ Hello there! I'm a DevOps Engineer from the Upside Down 🌌
-Caught between the _Mind Flayer_ of automation and the _Demogorgon_ of deployment, I wield the power of Dev over Ops (but not by much). [Arch Linux](https://archlinux.org/) is my _Hawkins_, _Vim_ is my trusty bike, and I’m always on the hunt for the next tech adventure (no Eggo left unturned!). 🛠️
+🚴‍♂️ Hello there!
 
-If it’s a new stack, a cryptic error, or just something to tinker with, I’m already there. 
+- 🛰️ DevOps Engineer · Kubernetes, GitOps, CI/CD
+- 🦊 Arch Linux enjoyer · Vim rider · Coffee powered
+- 🎮 Building weird things: roguelike games, GitOps toys, DevEx tools
 
 Let’s turn the Right-Side Up into something even stranger! 🚀
 
