@@ -2,24 +2,16 @@
 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F5D4" width="100%" alt="" />
 
-  <h1>Luca Maggio / mayday</h1>
-  <p><strong>DevOps Engineer</strong> building small systems with sharp edges.</p>
+  <img src="./assets/profile-terminal.svg" width="100%" alt="Retro terminal introducing Luca Maggio, mayday, DevOps Engineer" />
 
   <p>
     <a href="https://github.com/its-me-mayday">
       <img src="https://img.shields.io/badge/github-its--me--mayday-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0d1117" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/luca-maggio/">
-      <img src="https://img.shields.io/badge/linkedin-luca_maggio-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF2A6D&labelColor=0d1117" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Luca%20Maggio-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
     </a>
   </p>
-
-  <p>
-    <code>Kubernetes</code> <code>GitOps</code> <code>Go</code> <code>TypeScript</code>
-    <code>CI/CD</code> <code>Linux</code>
-  </p>
-
-  <sub>retro terminal mood, cyberpunk wiring, pragmatic shipping.</sub>
 
 </div>
 
