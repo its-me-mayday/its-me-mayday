@@ -1,8 +1,8 @@
-<svg width="236" height="36" viewBox="0 0 236 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+<svg width="208" height="28" viewBox="0 0 208 28" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">LinkedIn Luca Maggio</title>
-  <rect x="0.5" y="0.5" width="235" height="35" rx="6" fill="#0D1117" stroke="#30363D"/>
-  <rect x="1" y="1" width="48" height="34" rx="5" fill="#0A66C2"/>
-  <path d="M15.2 16.1H19.1V28H15.2V16.1ZM17.2 10.2C18.4 10.2 19.4 11.2 19.4 12.4C19.4 13.6 18.4 14.6 17.2 14.6C16 14.6 15 13.6 15 12.4C15 11.2 16 10.2 17.2 10.2ZM21.6 16.1H25.3V17.7H25.4C25.9 16.7 27.2 15.7 29.1 15.7C33 15.7 33.7 18.3 33.7 21.6V28H29.8V22.3C29.8 20.9 29.8 19.2 27.9 19.2C26 19.2 25.7 20.7 25.7 22.2V28H21.6V16.1Z" fill="white"/>
-  <text x="63" y="23" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#E6EDF3">LinkedIn</text>
-  <text x="132" y="23" font-family="Inter, Arial, sans-serif" font-size="14" fill="#8B949E">Luca Maggio</text>
+  <rect width="208" height="28" rx="0" fill="#0D1117"/>
+  <rect width="84" height="28" rx="0" fill="#0A66C2"/>
+  <path d="M14 11.9H17V21H14V11.9ZM15.5 7.4C16.5 7.4 17.2 8.2 17.2 9.1C17.2 10.1 16.5 10.8 15.5 10.8C14.6 10.8 13.8 10.1 13.8 9.1C13.8 8.2 14.6 7.4 15.5 7.4ZM19 11.9H21.9V13.2H21.9C22.3 12.4 23.3 11.6 24.7 11.6C27.8 11.6 28.3 13.6 28.3 16.1V21H25.3V16.7C25.3 15.6 25.3 14.3 23.8 14.3C22.4 14.3 22.1 15.4 22.1 16.6V21H19V11.9Z" fill="white"/>
+  <text x="37" y="18" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">LINKEDIN</text>
+  <text x="97" y="18" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#E6EDF3">LUCA MAGGIO</text>
 </svg>

@@ -62,47 +62,6 @@ I like infrastructure that can be rebuilt, APIs that age well, and side projects
   <strong>Community:</strong> voluntary organizational and leadership activities with Azione Cattolica and local educational initiatives.
 </p>
 
-## Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/its-me-mayday/cursus">cursus</a></h3>
-      <p>Go backend for real-time Rome metro frequency and delay tracking using GTFS-Realtime feeds.</p>
-      <p><code>Go</code> <code>GTFS-RT</code> <code>Transit Data</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/its-me-mayday/cursus-view">cursus-view</a></h3>
-      <p>Frontend companion for Cursus: a cleaner way to read metro status, frequency and disruption data.</p>
-      <p><code>TypeScript</code> <code>UI</code> <code>Realtime</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/its-me-mayday/simple-gitops-poc">simple-gitops-poc</a></h3>
-      <p>Local GitOps lab with Kind, Argo CD, Gitea and Harbor for testing delivery flows and supply-chain ideas.</p>
-      <p><code>Kubernetes</code> <code>Argo CD</code> <code>Harbor</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/its-me-mayday/directus-chart">directus-chart</a></h3>
-      <p>Helm chart for deploying Directus on Kubernetes with database dependencies and practical defaults.</p>
-      <p><code>Helm</code> <code>Kubernetes</code> <code>Directus</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/its-me-mayday/chill-rider">chill-rider</a></h3>
-      <p>Roguelike delivery game prototype with modular HUD, equipment, shop flow and pixelated maps.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Game Dev</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/its-me-mayday/hawkins-control-ui">hawkins-control-ui</a></h3>
-      <p>Stranger Things inspired rock-paper-scissors UI with custom effects, animations and arcade energy.</p>
-      <p><code>Frontend</code> <code>Animation</code> <code>Theme UI</code></p>
-    </td>
-  </tr>
-</table>
-
 ## Toolkit
 
 <p>
