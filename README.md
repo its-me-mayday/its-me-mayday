@@ -22,14 +22,45 @@
 ```txt
 name:      Luca "mayday" Maggio
 role:      graduate Software Engineer / DevOps Engineer
-focus:     platform engineering, automation, developer experience
-stack:     Kubernetes, GitOps, CI/CD, Go, TypeScript, Terraform/OpenTofu
+focus:     backend systems, cloud-native platforms, automation
+stack:     Kubernetes, GitOps, CI/CD, Go, Java, TypeScript, Terraform/OpenTofu
 habits:    Arch Linux, Vim, coffee, tiny tools, weird game prototypes
 quote:     I'm your friendly neighborhood graduate Software Engineer!
 signoff:   stay fox
 ```
 
-I like infrastructure that can be rebuilt, interfaces that stay out of the way, and side projects with a bit of static in the neon. Friendly neighborhood energy, production-minded habits.
+Computer Engineer from Rome, graduated in Computer and Automatic Engineering at Sapienza University of Rome. I work across backend development, system design and cloud-native applications, with a strong bias for maintainable code, automation and production-ready delivery.
+
+I like infrastructure that can be rebuilt, APIs that age well, and side projects with a bit of static in the neon. Friendly neighborhood energy, production-minded habits.
+
+## Journey
+
+<table>
+  <tr>
+    <td width="24%"><strong>2026 - now</strong></td>
+    <td><strong>Poste Italiane</strong><br/>Graduate Senior Software Engineer / AI Engineer, working on software engineering, DevOps practices and AI-oriented initiatives in an enterprise environment.</td>
+  </tr>
+  <tr>
+    <td><strong>2025</strong></td>
+    <td><strong>Mobilize Financial Services</strong><br/>Graduate Senior Software Engineer focused on Kubernetes platforms, GitOps delivery models, CI/CD integration, reliability and cloud-native operations.</td>
+  </tr>
+  <tr>
+    <td><strong>2022 - 2025</strong></td>
+    <td><strong>Activa Digital</strong><br/>Graduate DevOps Engineer / Technical Lead supporting development teams with infrastructure automation, CI/CD optimization, Kubernetes, Argo CD, Helm, OpenTofu and platform practices.</td>
+  </tr>
+  <tr>
+    <td><strong>2019 - 2022</strong></td>
+    <td><strong>AlmavivA / Key Partner</strong><br/>DevOps, cloud and software engineering roles across backend development, Jenkins/GitLab pipelines, Ruby on Rails, Java Spring Boot, AWS, Azure, Kubernetes and internal applications.</td>
+  </tr>
+</table>
+
+<p>
+  <strong>Education:</strong> Sapienza University of Rome, Computer and Automatic Engineering / Computer Engineering.
+  <br/>
+  <strong>Certifications:</strong> GitOps Fundamentals, Microsoft Azure Fundamentals, Docker Essentials, DataOps Methodology.
+  <br/>
+  <strong>Community:</strong> voluntary organizational and leadership activities with Azione Cattolica and local educational initiatives.
+</p>
 
 ## Projects
 
@@ -80,6 +111,7 @@ I like infrastructure that can be rebuilt, interfaces that stay out of the way, 
   <img src="https://img.shields.io/badge/Argo_CD-0d1117?style=flat-square&logo=argo&logoColor=FF2A6D" alt="Argo CD" />
   <img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=FF2A6D" alt="Terraform" />
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00F5D4" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=FF2A6D" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00F5D4" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=FF2A6D" alt="React" />
   <img src="https://img.shields.io/badge/Vim-0d1117?style=flat-square&logo=vim&logoColor=00F5D4" alt="Vim" />
