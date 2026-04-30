@@ -92,9 +92,31 @@ I like infrastructure that can be rebuilt, interfaces that stay out of the way, 
 
 ## Telemetry
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/its-me-mayday/hawkins-github-stats/main/card.svg" alt="Mayday GitHub stats" />
-</div>
+```txt
+mayday@github
+------------------------------------------------------------
+focus      platform engineering / automation / useful tools
+now        Cursus, GitOps labs, small interfaces with signal
+runtime    Go, TypeScript, Kubernetes, Linux
+style      minimal UI, retro terminals, neon accents
+status     shipping, refactoring, learning in public
+------------------------------------------------------------
+```
+
+<table>
+  <tr>
+    <td><strong>builds</strong></td>
+    <td>GitOps labs, realtime data services, frontend control panels</td>
+  </tr>
+  <tr>
+    <td><strong>cares about</strong></td>
+    <td>reproducible infra, clean deploy paths, fast feedback loops</td>
+  </tr>
+  <tr>
+    <td><strong>side quests</strong></td>
+    <td>roguelike systems, pixel interfaces, tiny CLIs</td>
+  </tr>
+</table>
 
 ## Contact
 
