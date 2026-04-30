@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/github-its--me--mayday-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0d1117" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/luca-maggio/">
-      <img src="https://img.shields.io/badge/LinkedIn-Luca%20Maggio-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
+      <img src="./assets/linkedin-badge.svg" alt="LinkedIn Luca Maggio" />
     </a>
   </p>
 
@@ -17,16 +17,19 @@
 
 ---
 
-## Signal
+## Profile
 
 ```txt
-operator:  Luca "mayday" Maggio
-mode:      DevOps / platform / automation
+name:      Luca "mayday" Maggio
+role:      graduate Software Engineer / DevOps Engineer
+focus:     platform engineering, automation, developer experience
 stack:     Kubernetes, GitOps, CI/CD, Go, TypeScript, Terraform/OpenTofu
 habits:    Arch Linux, Vim, coffee, tiny tools, weird game prototypes
+quote:     I'm your friendly neighborhood graduate Software Engineer!
+signoff:   stay fox
 ```
 
-I like infrastructure that can be rebuilt, interfaces that stay out of the way, and side projects with a bit of static in the neon.
+I like infrastructure that can be rebuilt, interfaces that stay out of the way, and side projects with a bit of static in the neon. Friendly neighborhood energy, production-minded habits.
 
 ## Projects
 

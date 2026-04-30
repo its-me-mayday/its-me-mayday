@@ -42,13 +42,14 @@
   <text x="64" y="168" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="42" font-weight="700" fill="#E6EDF3">Luca Maggio</text>
   <text x="371" y="168" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="42" font-weight="700" fill="#00F5D4">/ mayday</text>
 
-  <text x="64" y="214" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" fill="#C9D1D9">DevOps Engineer building small systems with sharp edges.</text>
-  <text x="64" y="253" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="18" fill="#8B949E">&gt; Kubernetes . GitOps . Go . TypeScript . CI/CD . Linux</text>
-  <text x="64" y="291" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="18" fill="#FF2A6D">&gt; retro terminal mood, cyberpunk wiring, pragmatic shipping</text>
+  <text x="64" y="211" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="21" fill="#C9D1D9">I'm your friendly neighborhood graduate Software Engineer!</text>
+  <text x="64" y="250" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="18" fill="#8B949E">&gt; Kubernetes . GitOps . Go . TypeScript . CI/CD . Linux</text>
+  <text x="64" y="288" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="18" fill="#FF2A6D">&gt; retro terminal mood, cyberpunk wiring, pragmatic shipping</text>
 
   <rect x="812" y="105" width="84" height="84" rx="14" fill="#0D1117" stroke="#30363D"/>
   <text x="854" y="139" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="26" fill="#00F5D4">01</text>
-  <text x="854" y="166" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" fill="#8B949E">SIGNAL</text>
+  <text x="854" y="166" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" fill="#8B949E">PROFILE</text>
+  <text x="854" y="205" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="14" fill="#FF2A6D">stay fox</text>
   <path d="M811 226H910" stroke="#00F5D4" stroke-width="2" stroke-linecap="round"/>
   <path d="M811 250H876" stroke="#FF2A6D" stroke-width="2" stroke-linecap="round"/>
   <path d="M811 274H896" stroke="#2DE2E6" stroke-width="2" stroke-linecap="round"/>
