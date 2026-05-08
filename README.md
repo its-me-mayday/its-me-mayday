@@ -1,8 +1,8 @@
 # Luca Maggio
 
-Software Engineer / DevOps Engineer based in Rome.
+Software Engineer / DevOps Engineer based in Rome, also known as `mayday`.
 
-I work on backend systems, cloud-native platforms, automation and delivery workflows. I care about maintainable code, reproducible infrastructure and fast feedback loops.
+I build backend systems, cloud-native platforms, automation and delivery workflows. I like boring infrastructure, clean APIs, reproducible environments and fast feedback loops.
 
 ## Experience
 
@@ -13,7 +13,7 @@ I work on backend systems, cloud-native platforms, automation and delivery workf
 
 ## Stack
 
-Linux, Kubernetes, GitOps, CI/CD, Go, Java, TypeScript, Terraform/OpenTofu, Argo CD, Helm.
+Linux, Kubernetes, GitOps, CI/CD, Go, Java, TypeScript, Terraform/OpenTofu, Argo CD, Helm. Usually near a terminal, a Vim buffer and a deploy pipeline.
 
 ## Education
 
